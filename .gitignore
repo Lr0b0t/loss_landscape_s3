@@ -1,0 +1,5 @@
+wandb/
+exp/
+tests_sh/
+**__pycache__**
+SHD_runs/
